@@ -8,11 +8,11 @@ This repository showcases my current work in upskilling with Python, focusing on
 The original concept and code structure were inspired by the work of Faizan Ahmed, with significant modifications and enhancements made to tailor the analysis specifically for my learning and professional goals.
 
 ## Key Features
-+ Data Collection and Cleaning: The foundation of this project is robust data handling. Using yfinance, the script fetches historical and financial data for a selection of stocks, ensuring data accuracy and completeness.
-+ Sector Analysis: Financial metrics are categorized into Valuation, Profitability, Growth, and Performance. The data is cleaned to remove outliers, allowing for accurate sector-based comparisons.
-+ Stock Grading System: Stocks are graded on financial metrics with a custom grading system that compares each stock's performance against sector averages. This system provides insights into each stock's strengths and weaknesses relative to its peers.
-+ Comprehensive Reporting: Results are exported to CSV files, including detailed metric grades, sector comparisons, and overall stock ratings, making it easy to review and utilize the data in further analysis or presentations.
-+ Interactive Dash Application: A user-friendly dashboard that visualizes detailed stock metrics and sector comparisons, enabling interactive exploration of stock performance data.
++ **Data Collection and Cleaning**: The foundation of this project is robust data handling. Using yfinance, the script fetches historical and financial data for a selection of stocks, ensuring data accuracy and completeness.
++ **Sector Analysis**: Financial metrics are categorized into Valuation, Profitability, Growth, and Performance. The data is cleaned to remove outliers, allowing for accurate sector-based comparisons.
++ **Stock Grading System**: Stocks are graded on financial metrics with a custom grading system that compares each stock's performance against sector averages. This system provides insights into each stock's strengths and weaknesses relative to its peers.
++ **Comprehensive Reporting**: Results are exported to CSV files, including detailed metric grades, sector comparisons, and overall stock ratings, making it easy to review and utilize the data in further analysis or presentations.
++ **Interactive Dash Application**: A user-friendly dashboard that visualizes detailed stock metrics and sector comparisons, enabling interactive exploration of stock performance data.
 
 ## Dash Application
 The Dash application provides a dynamic interface for analyzing stock metrics and sector comparisons:
@@ -22,9 +22,9 @@ Metric Comparison Graph: A bar chart visualizes the selected stock's metrics alo
 Detailed Metric Grades Table: A data table displays detailed metric grades for the selected stock, with conditional formatting applied to profitability metrics for clear insights.
 
 ## Focus Areas
-Data Collection: Understanding where and how to extract the necessary financial data for thorough analysis, ensuring reliability and relevance.
-Data Cleaning: Emphasis on removing outliers and inconsistencies, which is critical for maintaining the integrity of the financial analysis.
-Quantitative Analysis: Applying data-driven methodologies to evaluate stocks, focusing on metrics essential for Quantitative Analyst roles, such as valuations, growth projections, and performance evaluations.
+**Data Collection**: Understanding where and how to extract the necessary financial data for thorough analysis, ensuring reliability and relevance.
+**Data Cleaning**: Emphasis on removing outliers and inconsistencies, which is critical for maintaining the integrity of the financial analysis.
+**Quantitative Analysis**: Applying data-driven methodologies to evaluate stocks, focusing on metrics essential for Quantitative Analyst roles, such as valuations, growth projections, and performance evaluations.
 
 ## Tools and Libraries
 Python: The primary programming language used for all data operations and analyses.
