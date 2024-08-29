@@ -1,5 +1,7 @@
-Financial Data Analysis and Portfolio Optimization
+*Financial Data Analysis and Portfolio Optimization*
+
 Overview
+
 This repository showcases my current work in upskilling with Python, focusing on financial data collection, cleaning, and analysis tailored for Quantitative Analyst roles. The project emphasizes understanding financial data sources, extracting relevant information, and performing data-driven evaluations of stocks across various sectors. The core of the project revolves around using Python libraries such as yfinance, pandas, and numpy to gather and analyze financial metrics crucial for portfolio optimization and asset management.
 
 Credit
